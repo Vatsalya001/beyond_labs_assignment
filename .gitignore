@@ -1,0 +1,10 @@
+# Unredacted original capture — contains a resume_conversation_token JWT and
+# internal infra addresses. NEVER commit. The committed chatgpt_raw.txt is the
+# same stream with those values replaced by [REDACTED-*] placeholders; all
+# extraction results are byte-identical either way.
+capture/chatgpt_raw.original.txt
+
+__pycache__/
+*.pyc
+.adlc/
+.DS_Store

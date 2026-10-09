@@ -1,0 +1,134 @@
+{
+  "youtube_results": [
+    {
+      "type": "search_result",
+      "url": "https://www.youtube.com/watch?v=NjOf3BrRV1k",
+      "title": "Asana vs ClickUp vs Monday.com 2026: Which One Is Actually Worth It? - YouTube",
+      "snippet": "",
+      "ref_id": {
+        "turn_index": 708623,
+        "ref_type": "youtube",
+        "ref_index": 4
+      },
+      "pub_date": 1787529600.0,
+      "attribution": "www.youtube.com",
+      "url_variants": [
+        "https://www.youtube.com/watch?v=NjOf3BrRV1k"
+      ],
+      "cited": false,
+      "cited_via": null,
+      "cite_refs": [],
+      "is_youtube": true,
+      "domain": "youtube.com"
+    },
+    {
+      "type": "search_result",
+      "url": "https://www.youtube.com/watch?v=SzYhFDX_TV0",
+      "title": "ClickUp vs Monday.com vs Asana - Which is Best? (2026) - YouTube",
+      "snippet": "",
+      "ref_id": {
+        "turn_index": 708623,
+        "ref_type": "youtube",
+        "ref_index": 5
+      },
+      "pub_date": 1760572800.0,
+      "attribution": "www.youtube.com",
+      "url_variants": [
+        "https://www.youtube.com/watch?v=SzYhFDX_TV0"
+      ],
+      "cited": true,
+      "cited_via": "safe_url",
+      "cite_refs": [],
+      "is_youtube": true,
+      "domain": "youtube.com"
+    }
+  ],
+  "keys_present_on_youtube_entries": [
+    "attribution",
+    "cite_refs",
+    "cited",
+    "cited_via",
+    "domain",
+    "is_youtube",
+    "pub_date",
+    "ref_id",
+    "snippet",
+    "title",
+    "type",
+    "url",
+    "url_variants"
+  ],
+  "claimed_field_audit": {
+    "channel": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": true,
+      "context_sample": "3-206a1404a3a7\",\"model_switcher_deny\":[]},\"recipient\":\"all\",\"channel\":null},\"conversation_id\":\"6ac8f5fd-4f98-83ec-90a2-c38d33d9d0a"
+    },
+    "channel_name": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "followers": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "follower_count": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "subscribers": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "subscriber_count": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "verified": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "is_verified": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "views": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "view_count": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "likes": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "like_count": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "description": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    },
+    "transcript": {
+      "in_youtube_entry": false,
+      "key_anywhere_in_stream": false,
+      "context_sample": null
+    }
+  },
+  "transcript_shaped_keys_in_raw_stream": []
+}
